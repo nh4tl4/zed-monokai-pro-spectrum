@@ -1,0 +1,7 @@
+id = "monokai-pro-spectrum"
+name = "Monokai Pro Spectrum"
+version = "0.1.0"
+schema_version = 1
+authors = ["nh4tl4 <nh4tl4@github.com>"]
+description = "Monokai Pro Spectrum theme for Zed editor with JetBrains-style color scheme"
+repository = "https://github.com/nh4tl4/monokai-pro-spectrum-zed"

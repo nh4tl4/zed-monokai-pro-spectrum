@@ -1,0 +1,38 @@
+# Compiled files
+*.wasm
+target/
+
+# Dependencies
+Cargo.lock
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build artifacts
+dist/
+build/
+
+# Node modules (if any)
+node_modules/
+
+# Package files
+*.tgz
+*.tar.gz
+
+# Backup files
+*.bak
+*~
