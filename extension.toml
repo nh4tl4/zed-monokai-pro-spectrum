@@ -5,6 +5,4 @@ schema_version = 1
 authors = ["nh4tl4 <nh4tl4@github.com>"]
 description = "Monokai Pro Spectrum theme for Zed editor with JetBrains-style color scheme. A beautiful dark theme with vibrant colors optimized for coding."
 repository = "https://github.com/nh4tl4/zed-monokai-pro-spectrum"
-
-[themes]
-monokai-pro-spectrum = "themes/monokai-pro-spectrum.json"
+themes = ["themes/monokai-pro-spectrum.json", "themes/monokai-pro-classic.json"]
