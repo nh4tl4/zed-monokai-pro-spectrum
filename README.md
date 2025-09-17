@@ -4,7 +4,7 @@ A beautiful port of the popular Monokai Pro Spectrum theme for the Zed editor, f
 
 ## Features
 
-- **Authentic Monokai Pro Spectrum colors**: Carefully crafted to match the original theme
+- **Authentic Monokai Pro Spectrum colors**: Carefully crafted to match the JetBrains original theme
 - **JetBrains-style UI integration**: Clean and professional interface design
 - **Optimized syntax highlighting**: Enhanced readability for all programming languages
 - **Dark theme perfection**: Easy on the eyes for long coding sessions
@@ -14,24 +14,28 @@ A beautiful port of the popular Monokai Pro Spectrum theme for the Zed editor, f
 
 ### Background Colors
 - **Editor Background**: Deep charcoal (#222222)
-- **UI Background**: Dark gray (#2d2a2e)
-- **Panel Background**: Darker charcoal (#221f22)
+- **UI Background**: Dark gray (#2b2b2b)
+- **Panel Background**: Darker charcoal (#19181a)
 - **Selection**: Subtle highlights with transparency
 
 ### Syntax Highlighting
-- **Keywords**: Vibrant pink (#ff6188)
-- **Strings**: Golden yellow (#ffd866)
-- **Functions**: Bright green (#a9dc76)
-- **Types**: Light blue (#78dce8)
-- **Numbers/Constants**: Purple (#ab9df2)
-- **Comments**: Muted gray (#727072)
-- **Operators**: Pink (#ff6188)
+- **Keywords**: Vibrant pink (#fc618d)
+- **Strings**: Golden yellow (#fce566)
+- **Functions**: Bright green (#7bd88f)
+- **Types**: Light cyan (#5ad4e6)
+- **Numbers/Constants**: Purple (#948ae3)
+- **Comments**: Muted gray (#69676c)
+- **Variables**: Light cream (#f7f1ff)
+- **Parameters**: Orange (#f59762)
+- **Operators**: Pink (#fc618d)
 
-### Accent Colors
-- **Primary Accent**: Cyan blue (#78dce8)
-- **Error**: Pink (#ff6188)
-- **Warning**: Yellow (#ffd866)
-- **Success**: Green (#a9dc76)
+### UI Elements
+- **Line Numbers**: Dark gray (#525053)
+- **Active Line Number**: Light gray (#c1c0c0)
+- **Primary Accent**: Cyan blue (#5ad4e6)
+- **Error**: Pink (#fc618d)
+- **Warning**: Yellow (#fce566)
+- **Success**: Green (#7bd88f)
 
 ## Installation
 
@@ -79,12 +83,13 @@ This theme provides optimized syntax highlighting for:
 
 ## Comparison with Original
 
-This theme aims to closely replicate the original Monokai Pro Spectrum theme:
+This theme aims to closely replicate the original Monokai Pro Spectrum theme from JetBrains:
 
-- ✅ Accurate color reproduction
+- ✅ Accurate color reproduction from JetBrains color scheme
 - ✅ Proper contrast ratios
 - ✅ JetBrains-style UI integration
 - ✅ Consistent syntax highlighting across languages
+- ✅ Italic styling for attributes and special variables
 
 ## Contributing
 
@@ -107,12 +112,12 @@ This theme is released under the MIT License. See LICENSE file for details.
 
 - Original Monokai Pro theme by Wimer Hazenberg
 - Monokai Pro Spectrum variant
-- JetBrains for UI/UX inspiration
+- JetBrains for UI/UX inspiration and color scheme reference
 - Zed team for the excellent editor
 
 ## Version History
 
-- **0.1.0**: Initial release with authentic Monokai Pro Spectrum colors
+- **0.1.0**: Initial release with authentic Monokai Pro Spectrum colors extracted from JetBrains WebStorm
 
 ---
 
