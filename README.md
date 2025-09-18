@@ -91,6 +91,9 @@ This theme aims to closely replicate the original Monokai Pro Spectrum theme fro
 - ✅ Consistent syntax highlighting across languages
 - ✅ Italic styling for attributes and special variables
 
+## Screen shot
+<img width="1107" height="1047" alt="image" src="https://github.com/user-attachments/assets/acfbb680-d4fd-49d7-8f7c-3c49f470bf21" />
+
 ## Contributing
 
 Contributions are welcome! If you notice any color inconsistencies or have suggestions for improvements:
